@@ -70,14 +70,5 @@
             "role": "Developer"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Carbon_Fields\\": "core/"
-        },
-        "files": [
-            "carbon-fields.php",
-            "core/functions.php"
-        ]
-    }
+    "require": {}
 }
